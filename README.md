@@ -1,4 +1,4 @@
-# financial_accounting_equation_sol
+# financial_accounting
 
 
 Coming soon.... 
